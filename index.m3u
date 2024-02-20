@@ -13,7 +13,7 @@ http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 http://23.237.100.82:8000/HUSTLER/index.m3u8
 #EXTINF:-1 ,Miami
 http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
-#EXTINF:-1 ,PENTHOUSE
+#EXTINF:-1 ,RealityJunky
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1 ,PENTHOUSE Gold
 http://51.159.102.100/PenthouseGold/index.m3u8
@@ -25,3 +25,7 @@ http://93.155.227.38:80/m3u8/private.m3u8
 http://78.47.224.234/puretaboo/index.m3u8
 #EXTINF:-1 ,RedlightHD
 http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1 ,PLAYBOY
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 ,CAM
+http://live.adultiptv.net/blonde.m3u8
